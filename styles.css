@@ -62,12 +62,6 @@ button {
     transform: scaleX(0);
 }
 
-.btn.btn-background-slide:hover::before,
-.btn.btn-background-slide:focus::before {
-    
-}
-
-
 .btn-btn-background-slide {
     z-index: 1;
 }
